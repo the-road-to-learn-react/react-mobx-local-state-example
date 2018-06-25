@@ -1,5 +1,7 @@
 # React MobX (Local State) Example
 
+[![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
+
 * Found in [The Road to learn React](https://roadtoreact.com/)
 * Read more about the [Setup](https://www.robinwieruch.de/create-react-app-mobx-decorators/)
 
