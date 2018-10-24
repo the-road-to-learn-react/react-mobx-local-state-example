@@ -15,7 +15,7 @@
 
 ## Installation
 
-* `git clone git@github.com:rwieruch/react-mobx-local-state-example.git`
+* `git clone git@github.com:the-road-to-learn-react/react-mobx-local-state-example.git`
 * `cd react-mobx-local-state-example`
 * `npm install`
 * `npm start`
